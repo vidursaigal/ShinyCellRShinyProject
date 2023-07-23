@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username: vidursaigal3
+account: vidursaigal3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9496789
+bundleId: 7488343
+url: https://vidursaigal3.shinyapps.io/shinyapp/
+version: 1
